@@ -1,0 +1,13 @@
+package com.jb.couponsys2;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Couponsys2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
